@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    color: #efefef;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}
+h3{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}   
+h5{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+} 
+.abc{
+    text-align: center;
+}
+.nav-logo img{
+    width: 135px;
+}
+
+.navigation{
+    padding: 25px 0px;
+}
+.navigation a{
+margin-right: 5px;
+text-decoration: none;
+border: 1px solid #ccc;
+padding: 10px 25px ;
+border-radius: 50px;
+color: #e74c3c;
+
+}
+.navigation a.active{
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+    color: #fff;
+}    
+.ImageContainer{
+    display: inline-block;
+} 
+img{
+    margin: 5px;
+    width: 400px;
+    height: 250px;
+}
